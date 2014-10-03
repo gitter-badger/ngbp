@@ -1,4 +1,5 @@
 # [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) [![Build Status](https://travis-ci.org/joshdmiller/ng-boilerplate.png?branch=master)](https://travis-ci.org/joshdmiller/ng-boilerplate)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/erichsend/ngbp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
 
